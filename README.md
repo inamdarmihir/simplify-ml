@@ -1,4 +1,4 @@
-simplify-ML: Demos for Simplifying Machine Learning
+#Simplify-ML: Demos for Simplifying Machine Learning
 Welcome to Simplify-ML, a collection of hands-on project demos that aim to simplify the understanding and implementation of various machine learning techniques. Whether you are a beginner or an experienced practitioner, these demos will help you grasp essential concepts and provide you with practical code examples using Google Colab.
 
 Table of Contents
